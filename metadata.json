@@ -1,0 +1,8 @@
+{
+  "name": "LUMI — AI Social Media Operating System",
+  "description": "Your entire social media operation. One intelligent system. LUMI brings strategy, AI content, video generation, scheduling, community, and analytics into one workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
